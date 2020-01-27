@@ -62,8 +62,6 @@
             "tag": "b"
         },
         "anchor-navigation-ex": {
-            "showLevel": true,
-            "multipleH1": true,
             "mode": "pageTop",
             "pageTop": {
                 "showLevelIcon": true,
