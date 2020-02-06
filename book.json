@@ -5,6 +5,9 @@
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
+    "styles": {
+        "website": "styles/website.css"
+    },
     "plugins": [
         "-lunr",
         "-search",
@@ -27,7 +30,9 @@
         "copy-code-button",
         "theme-comscore",
         "expandable-chapters",
-        "anchor-navigation-ex"
+        "anchor-navigation-ex",
+        "emphasize",
+        "fancybox"
     ],
     "pluginsConfig": {
         "prism": {
@@ -63,6 +68,7 @@
         },
         "anchor-navigation-ex": {
             "mode": "pageTop",
+            "showLevel": false,
             "pageTop": {
                 "showLevelIcon": true,
                 "level1Icon": "fa fa-hand-o-right",
