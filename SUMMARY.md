@@ -4,7 +4,7 @@
 * [js数据结构描述](basic_concept/js数据结构描述.md)
 
 ## 工作应用
-* [最佳基因配对率-动态规划](work_accumulation/最佳基因配对率-动态规划.md)
+* [最佳配对率-动态规划](work_accumulation/最佳配对率-动态规划.md)
 
 ## 题库
 * [简单-两数之和-字典查找](question_bank/简单-两数之和-字典查找.md)
